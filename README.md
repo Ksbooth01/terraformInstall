@@ -1,4 +1,4 @@
-# terrafornInstall
+# terraformInstall
 Terraform install
 Update the operating system
 sudo yum update -y
